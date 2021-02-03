@@ -1,2 +1,2 @@
 # mynewrepo
-A repositotry to learn connecting to Github remotely
+A repositotry to learn connecting to Github remotely.
